@@ -61,6 +61,9 @@
   --button-transition: all 0.3s ease;
   --shadow-color: rgba(0, 0, 0, 0.1);
   --highlight-color: rgba(255, 255, 255, 0.8);
+
+  --neumorphic-shadow-size: 8px;
+  --primary-glow: 0 0 10px rgba(212, 165, 165, 0.5);
 }
 
     html {
