@@ -1,8 +1,36 @@
 {
   "projectName": "משרד-עורכי-דין-ביתא-9298",
   "businessName": "משרד עורכי דין ביתא",
-  "created": "2025-04-09T11:48:18.160Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "description": "אנחנו משרד עורכי דין מוביל בתחום המזון עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+  "created": "2025-04-09T11:49:25.832Z",
+  "generatedWith": "webis-generator",
+  "repoName": "webis-site-mshrd-avrky-dyn-byta-1744199298105",
+  "formData": {
+    "businessName": "משרד עורכי דין ביתא",
+    "businessType": "משרד עורכי דין",
+    "industry": "אופנה",
+    "businessSize": "large",
+    "description": "אנחנו משרד עורכי דין מוביל בתחום המזון עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+    "language": "en",
+    "primaryColor": "#D4A5A5",
+    "secondaryColor": "#4ECDC4",
+    "typographyStyle": "playful",
+    "animationPreference": "bold",
+    "headline": "משרד עורכי דין מוביל בישראל",
+    "descriptionText": "חווית לקוח מושלמת בכל ביקור",
+    "ctaText": "קבע תור עכשיו",
+    "formFields": "שם, טלפון, אימייל, הודעה",
+    "includeTestimonials": true,
+    "includeFAQ": false,
+    "hasProducts": false,
+    "hasServices": true,
+    "hasPortfolio": false,
+    "needsBookingSystem": true,
+    "metaDescription": "משרד עורכי דין מוביל המספק שירות מקצועי ואיכותי. הזמינו תור עוד היום!",
+    "metaKeywords": "משרד עורכי דין, שירות, איכות, מקצועיות, ישראל",
+    "designStyles": [
+      "neumorphic",
+      "glassmorphism"
+    ]
+  }
 }
