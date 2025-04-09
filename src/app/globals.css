@@ -27,6 +27,12 @@
 
   --neumorphic-bg: #f0f0f3;
   --glass-bg: rgba(255, 255, 255, 0.1);
+
+  --card-transition: 0.3s ease-in-out;
+  --shadow-neumorphic: 8px 8px 16px rgba(0, 0, 0, 0.05), -8px -8px 16px rgba(255, 255, 255, 0.8);
+  --shadow-neumorphic-hover: 12px 12px 20px rgba(0, 0, 0, 0.07), -12px -12px 20px rgba(255, 255, 255, 0.9);
+  --border-radius: 1rem;
+  --glassmorphic-bg: rgba(255, 255, 255, 0.15);
 }
 
     html {
