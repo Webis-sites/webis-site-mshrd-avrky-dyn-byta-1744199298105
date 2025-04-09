@@ -1,8 +1,11 @@
 {
-  "projectName": "משרד-עורכי-דין-ביתא-9298",
-  "businessName": "משרד עורכי דין ביתא",
-  "created": "2025-04-09T11:48:18.160Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-04-09T11:49:25.826Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [],
+  "repoName": "webis-site-mshrd-avrky-dyn-byta-1744199298105"
 }
