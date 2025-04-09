@@ -64,6 +64,12 @@
 
   --neumorphic-shadow-size: 8px;
   --primary-glow: 0 0 10px rgba(212, 165, 165, 0.5);
+
+  --card-shadow-dark: 5px 5px 10px rgba(0, 0, 0, 0.2), -5px -5px 10px rgba(255, 255, 255, 0.05);
+  --card-inset-shadow: inset 2px 2px 5px rgba(0, 0, 0, 0.05), inset -3px -3px 7px rgba(255, 255, 255, 0.8);
+  --card-inset-shadow-dark: inset 2px 2px 5px rgba(0, 0, 0, 0.2), inset -3px -3px 7px rgba(255, 255, 255, 0.05);
+  --glass-background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.05));
+  --glass-background-dark: linear-gradient(135deg, rgba(20, 30, 48, 0.5), rgba(10, 15, 24, 0.5));
 }
 
     html {
