@@ -1,11 +1,102 @@
 {
-  "timestamp": "2025-04-09T11:49:25.826Z",
+  "timestamp": "2025-04-09T11:50:33.561Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 15,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Navbar",
+      "type": "navigation",
+      "status": "pending",
+      "description": "RTL responsive navbar with logo and navigation links"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "RTL hero section for a law firm with headline, description, and booking CTA"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "RTL about section highlighting the law firm's expertise and experience"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "RTL services section showcasing the law firm's specialized legal services"
+    },
+    {
+      "name": "BookingSection",
+      "type": "booking",
+      "status": "pending",
+      "description": "RTL booking form section for scheduling consultations"
+    },
+    {
+      "name": "TestimonialsSection",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "RTL testimonials carousel showcasing client feedback"
+    },
+    {
+      "name": "TeamSection",
+      "type": "team",
+      "status": "pending",
+      "description": "RTL team section showcasing the law firm's attorneys"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "RTL contact information section with map and details"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "RTL footer with links, social media, and copyright"
+    },
+    {
+      "name": "Button",
+      "type": "ui",
+      "status": "pending",
+      "description": "Reusable button component with variants"
+    },
+    {
+      "name": "Card",
+      "type": "ui",
+      "status": "pending",
+      "description": "Reusable card component for various content types"
+    },
+    {
+      "name": "Layout",
+      "type": "layout",
+      "status": "pending",
+      "description": "Main layout component with navbar and footer"
+    },
+    {
+      "name": "BookingPage",
+      "type": "page",
+      "status": "pending",
+      "description": "Dedicated booking page with extended form"
+    },
+    {
+      "name": "ServicesPage",
+      "type": "page",
+      "status": "pending",
+      "description": "Dedicated services page with detailed service descriptions"
+    },
+    {
+      "name": "AboutPage",
+      "type": "page",
+      "status": "pending",
+      "description": "Dedicated about page with firm history and values"
+    }
+  ],
   "repoName": "webis-site-mshrd-avrky-dyn-byta-1744199298105"
 }
