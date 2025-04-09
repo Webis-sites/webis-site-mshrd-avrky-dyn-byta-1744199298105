@@ -33,6 +33,11 @@
   --shadow-neumorphic-hover: 12px 12px 20px rgba(0, 0, 0, 0.07), -12px -12px 20px rgba(255, 255, 255, 0.9);
   --border-radius: 1rem;
   --glassmorphic-bg: rgba(255, 255, 255, 0.15);
+
+  --font-size-heading: 2.5rem;
+  --font-size-text: 1rem;
+  --shadow-neomorphic: 10px 10px 20px rgba(0, 0, 0, 0.05), -10px -10px 20px rgba(255, 255, 255, 0.5);
+  --shadow-neomorphic-button: 5px 5px 15px rgba(78, 205, 196, 0.2), -5px -5px 15px rgba(255, 255, 255, 0.1), inset 0px 0px 0px rgba(78, 205, 196, 0.2), inset 0px 0px 0px rgba(255, 255, 255, 0.1);
 }
 
     html {
