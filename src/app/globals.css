@@ -44,6 +44,16 @@
   --glassmorphism-bg: rgba(255, 255, 255, 0.8);
   --glassmorphism-blur: 10px;
   --neumorphic-shadow: 8px 8px 16px #d1d1d1, -8px -8px 16px #ffffff;
+
+  --color-primary: #D4A5A5;
+  --color-secondary: #4ECDC4;
+  --color-primary-light: #E6C4C4;
+  --color-secondary-light: #7FDFD9;
+  --neumorphic-button-shadow: 5px 5px 10px #d1d1d4, -5px -5px 10px #ffffff;
+  --neumorphic-button-shadow-hover: 7px 7px 14px #d1d1d4, -7px -7px 14px #ffffff;
+  --neumorphic-button-shadow-active: inset 5px 5px 10px #d1d1d4, inset -5px -5px 10px #ffffff;
+  --glass-opacity: 0.1;
+  --glass-border-opacity: 0.2;
 }
 
     html {
