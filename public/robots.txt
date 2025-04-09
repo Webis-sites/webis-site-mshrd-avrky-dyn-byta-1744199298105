@@ -1,0 +1,7 @@
+
+    # robots.txt for משרד עורכי דין ביתא
+    User-agent: *
+    Allow: /
+
+    # Sitemap
+    Sitemap: https://משרד-עורכי-דין-ביתא.com/sitemap.xml
